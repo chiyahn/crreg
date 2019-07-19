@@ -1,0 +1,14 @@
+Package: ccreg
+Title: R package for cluster-robust random effect regression models
+Version: 0.1
+Authors@R: 
+    person(given = "Chiyoung",
+           family = "Ahn",
+           role = c("aut", "cre"),
+           email = "chiyahn@mail.ubc.ca")
+Description: Estimates random effect models under clusters
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
